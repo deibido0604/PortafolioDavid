@@ -279,6 +279,7 @@ main .skills .title{
         color: aliceblue;
         text-shadow: 1px 1px 1px black;
         font-size: 2em;
+        font-color: #;
         text-transform: uppercase;
         top: 100%
     }
